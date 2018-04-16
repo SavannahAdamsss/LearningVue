@@ -7,4 +7,8 @@ Install Vue Cli within directory
 
 Npm install -g @vue/cli
 
-vue create <project name>
+vue create project name
+
+npm run serve from the project name
+
+
